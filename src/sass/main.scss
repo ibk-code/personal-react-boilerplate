@@ -1,0 +1,25 @@
+// import abstract folder
+@import './abstracts/variable';
+
+// import base folder
+@import './base/base';
+@import './base/typography';
+
+// import components folder
+@import './components/button';
+@import './components/loader';
+
+//import Layout Folder
+@import './layout/skipcontent';
+@import './layout/navigation';
+
+// import from utils folder
+@import './utils/helpers';
+
+// import pages folder
+@import './pages/home';
+@import './pages/subscribe';
+@import './pages/checkout';
+
+//import libraries helpers
+@import '../../node_modules/bootstrap/scss/bootstrap';

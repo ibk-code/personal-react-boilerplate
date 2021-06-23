@@ -1,0 +1,40 @@
+//colors helpers
+.white {
+  color: $primary-white !important;
+}
+
+.blue {
+  color: $primary-blue !important;
+}
+
+.blue2 {
+  color: $secondary-blue !important;
+}
+
+// font family helpers
+.manrope {
+  font-family: 'Manrope';
+}
+
+//font weight helpers
+.w-light {
+  font-weight: 500;
+}
+
+.w-bold {
+  font-weight: 700;
+}
+
+.w-ebold {
+  font-weight: 800;
+}
+
+//spacing helpers
+.m-t2 {
+  margin-top: 2rem;
+}
+
+//font size helpers
+.xs-font {
+  font-size: 0.875rem !important;
+}
